@@ -8,7 +8,7 @@ This application keeps track of Joggin Spots.
 
 I used MariaDB for database (Not Included)
 
-Implements CRUD using SQL Query by JDBC Driver.
+Implements CRUD using SQL Query by JDBC Driver and JavaFX for GUI and navigation.
 
 Incorporates regular expression, polymorphism, OOP and other programming concepts in Java.
 
