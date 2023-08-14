@@ -1,6 +1,6 @@
 # Simple Jogging Spots in Singapore App
 
-Created an app as a start to my Java Journey
+Created an app for my Java Module
 
 Do note no database included.
 
